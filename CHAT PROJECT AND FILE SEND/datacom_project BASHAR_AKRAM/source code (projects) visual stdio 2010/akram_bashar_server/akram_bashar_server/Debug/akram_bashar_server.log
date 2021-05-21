@@ -1,0 +1,64 @@
+﻿Build started 19/12/2018 08:39:31 م.
+     1>Project "C:\Users\hasan\Documents\Visual Studio 2010\Projects\akram_bashar_server\akram_bashar_server\akram_bashar_server.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\akram_bashar_server.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\Users\hasan\Desktop\libs\libs /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt 1.cpp
+         1.cpp
+     1>c:\users\hasan\documents\visual studio 2010\projects\akram_bashar_server\akram_bashar_server\1.cpp(17): warning C4091: 'typedef ' : ignored on left of 'clients' when no variable is declared
+     1>c:\users\hasan\documents\visual studio 2010\projects\akram_bashar_server\akram_bashar_server\1.cpp(49): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\hasan\documents\visual studio 2010\projects\akram_bashar_server\akram_bashar_server\1.cpp(56): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\hasan\documents\visual studio 2010\projects\akram_bashar_server\akram_bashar_server\1.cpp(68): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\hasan\documents\visual studio 2010\projects\akram_bashar_server\akram_bashar_server\1.cpp(70): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\hasan\documents\visual studio 2010\projects\akram_bashar_server\akram_bashar_server\1.cpp(72): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\hasan\documents\visual studio 2010\projects\akram_bashar_server\akram_bashar_server\1.cpp(77): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\hasan\documents\visual studio 2010\projects\akram_bashar_server\akram_bashar_server\1.cpp(82): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\hasan\documents\visual studio 2010\projects\akram_bashar_server\akram_bashar_server\1.cpp(84): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\hasan\documents\visual studio 2010\projects\akram_bashar_server\akram_bashar_server\1.cpp(86): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\hasan\documents\visual studio 2010\projects\akram_bashar_server\akram_bashar_server\1.cpp(89): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\hasan\documents\visual studio 2010\projects\akram_bashar_server\akram_bashar_server\1.cpp(102): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\hasan\documents\visual studio 2010\projects\akram_bashar_server\akram_bashar_server\1.cpp(103): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\hasan\documents\visual studio 2010\projects\akram_bashar_server\akram_bashar_server\1.cpp(104): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\hasan\documents\visual studio 2010\projects\akram_bashar_server\akram_bashar_server\1.cpp(105): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\hasan\documents\visual studio 2010\projects\akram_bashar_server\akram_bashar_server\1.cpp(107): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\hasan\documents\visual studio 2010\projects\akram_bashar_server\akram_bashar_server\1.cpp(110): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\hasan\documents\visual studio 2010\projects\akram_bashar_server\akram_bashar_server\1.cpp(111): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\hasan\documents\visual studio 2010\projects\akram_bashar_server\akram_bashar_server\1.cpp(113): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\hasan\documents\visual studio 2010\projects\akram_bashar_server\akram_bashar_server\1.cpp(114): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : see declaration of 'strcat'
+     1>c:\users\hasan\documents\visual studio 2010\projects\akram_bashar_server\akram_bashar_server\1.cpp(116): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\users\hasan\documents\visual studio 2010\projects\akram_bashar_server\akram_bashar_server\1.cpp(132): warning C4101: 'message' : unreferenced local variable
+     1>c:\users\hasan\documents\visual studio 2010\projects\akram_bashar_server\akram_bashar_server\1.cpp(132): warning C4101: 'server_reply' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\hasan\Documents\Visual Studio 2010\Projects\akram_bashar_server\Debug\akram_bashar_server.exe" /NOLOGO C:\Users\hasan\Desktop\libs\libs\x86\pthreadVC2.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\akram_bashar_server.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\hasan\Documents\Visual Studio 2010\Projects\akram_bashar_server\Debug\akram_bashar_server.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\hasan\Documents\Visual Studio 2010\Projects\akram_bashar_server\Debug\akram_bashar_server.lib" /MACHINE:X86 Debug\1.obj
+         LINK : C:\Users\hasan\Documents\Visual Studio 2010\Projects\akram_bashar_server\Debug\akram_bashar_server.exe not found or not built by the last incremental link; performing full link
+         akram_bashar_server.vcxproj -> C:\Users\hasan\Documents\Visual Studio 2010\Projects\akram_bashar_server\Debug\akram_bashar_server.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\hasan\Documents\Visual Studio 2010\Projects\akram_bashar_server\Debug\akram_bashar_server.exe;#1" /manifest Debug\akram_bashar_server.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\akram_bashar_server.unsuccessfulbuild".
+         Touching "Debug\akram_bashar_server.lastbuildstate".
+     1>Done Building Project "C:\Users\hasan\Documents\Visual Studio 2010\Projects\akram_bashar_server\akram_bashar_server\akram_bashar_server.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.08

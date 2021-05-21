@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "akram_bashar_server", "akram_bashar_server\akram_bashar_server.vcxproj", "{28B27129-5228-485F-9200-13B0AF5FEEEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28B27129-5228-485F-9200-13B0AF5FEEEE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{28B27129-5228-485F-9200-13B0AF5FEEEE}.Debug|Win32.Build.0 = Debug|Win32
+		{28B27129-5228-485F-9200-13B0AF5FEEEE}.Release|Win32.ActiveCfg = Release|Win32
+		{28B27129-5228-485F-9200-13B0AF5FEEEE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
